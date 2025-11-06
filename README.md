@@ -15,9 +15,7 @@ The mod uses a config menu configuration instead of profiles. It supports bonus 
 
 ## Installation
 
-1. Ensure you have the [Hell2Modding](https://github.com/SGG-Modding/Hell2Modding) framework installed
-2. Place the `purpIe-BanManager` folder in your `mods` directory
-3. Launch Hades 2 with mods enabled
+- Install from Thunderstore mod using any mod manager (e.g., r2modman)
 
 ## Usage
 
