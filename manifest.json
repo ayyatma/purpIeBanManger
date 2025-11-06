@@ -1,6 +1,6 @@
 {
   "namespace": "purpIe",
-  "name": "BanManager",
+  "name": "Ban_Manager",
   "description": "Manage which boons are banned from appearing in runs.",
   "version_number": "1.0.0",
   "dependencies": [
