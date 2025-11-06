@@ -1,4 +1,4 @@
-# purpIe-BanManager
+# BanManager
 
 A comprehensive mod for Hades 2 that allows you to ban specific boons, hexes, and upgrades from various sources, giving you fine-grained control over your runs.
 
