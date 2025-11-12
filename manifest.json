@@ -2,7 +2,7 @@
   "namespace": "purpIe",
   "name": "Ban_Manager",
   "description": "Manage which boons are banned from appearing in runs.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.2",
   "dependencies": [
     "Hell2Modding-Hell2Modding-1.0.64",
     "SGG_Modding-ModUtil-4.0.1",
